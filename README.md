@@ -19,6 +19,10 @@ You can refine the count by cleaning the string prior to splitting or validating
 End the program.
 ## PROGRAM:
 ```
+'''
+Developed by: Ronick Aakshath P
+RegisterNumber: 22007303
+'''
 fname = input("Enter file name: ")
 num_words = 0
 with open(fname, 'r') as f:
